@@ -1,3 +1,15 @@
+# End to End Object Detection Project - Sign language detection 
+
+## Workflows :-
+
+- constants
+- config_entity
+- artifacts_entity
+- components
+- pipeline 
+- app
+
+
 # How to run :-
 
 ```bash
