@@ -25,6 +25,10 @@ pip install -r requirements.txt
 ```
 
 ```bash 
+pip install ultralytics
+```
+
+```bash 
 python app.py
 ```
 
